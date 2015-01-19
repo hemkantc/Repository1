@@ -8,7 +8,7 @@
 	<script src="resources/js/bootstrap.min.js"></script>
 </head>
 <body>
-<h2>Test Jenkins v1.2</h2>
+<h2>Test Jenkins v1.3</h2>
 <div class="bs-example">
     <nav role="navigation" class="navbar navbar-default">
         <!-- Brand and toggle get grouped for better mobile display -->
